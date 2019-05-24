@@ -3,9 +3,6 @@ Scheduler is a web-based application that helps to manage either personal or gro
 Team: 6460XYH
 Team members: Zhao Huang, Yanqun Xu, Lu Yu
 
-Files submit: 
-- Paper: pdf 
-- Source code(zip): including all source files
 - Demo video link: https://www.youtube.com/watch?v=M8TgJfVNQls&feature=youtu.be
 - Sheduler application: public URL: https://scheduler6460edu.herokuapp.com/
 
