@@ -1,0 +1,38 @@
+.bg1 {
+  background: url("../components/Images/bg.jpg");
+  width: 100%;
+  height: 100vh;
+  background-size: cover;
+}
+
+.bg2 {
+  background: url("../components/Images/bg.jpg");
+  /* width: 100%;
+  height: 100vh; */
+  background-size: cover;
+}
+
+.form-container {
+  border: 0px solid #ffff;
+  padding: 40px 40px;
+  margin-top: 10vh;
+  -webkit-box-shadow: -1px 5px 25px 10px rgba(0, 0, 0, 1);
+  -moz-box-shadow: -1px 5px 25px 10px rgba(0, 0, 0, 1);
+  box-shadow: -1px 5px 25px 10px rgba(50, 50, 50, 1);
+}
+
+.b1 {
+  float: right;
+}
+
+.rankinghead {
+  margin-top: 20px;
+  background-image: url("../components/Images/r2.jpg");
+  background-size: cover;
+}
+
+.recommendationhead {
+  margin-top: 20px;
+  background-image: url("../components/Images/r3.jpg");
+  background-size: cover;
+}
