@@ -1,5 +1,4 @@
-
-This is a group project.
+Scheduler is a web-based application that helps to manage either personal or group projects. Plan, work and get organized.
 
 Team: 6460XYH
 Team members: Zhao Huang, Yanqun Xu, Lu Yu
@@ -22,17 +21,15 @@ Software needed: install intelliJ IDEA, NodeJS, npm
 
 Steps for initiate backend and front end server:
 
-1. Unzip file 6460EduTechProject.zip
 
-2. Initiate backend server:
-run cmd in 6460EduTechProject/scheduler-SpringBoot/target directory: 
+1. Initiate backend server:
+run cmd in root/scheduler-SpringBoot/target directory: 
 $ java -jar scheduler-0.0.1-SNAPSHOT.jar
  
-3. Initiate backend server: 
+2. Initiate backend server: 
 run cmd in Scheduler-React directory: (for the first time, run npm install first, otherwise, skip it to npm start directly
 $ npm install
 $ npm start
 
-4. use chrome to open http://localhost:3000/
+3. use chrome to open http://localhost:3000/
 
-5. if you do not want to register an acount, feel free to use: superstar(username), she(password)
